@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/SW_Battlefront/Weapons/emplacement/display"
+"$bumpmap" "models/SW_Battlefront/Weapons/emplacement/e-web_base_nm"
+"$surfaceprop" "Default"
+
+"Proxies" 
+{ 
+"AnimatedTexture" 
+{ 
+"animatedTextureVar" "$basetexture" 
+"animatedTextureFrameNumVar" "$frame" 
+"animatedTextureFrameRate" "1" 
+}
+} 
+}
